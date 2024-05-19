@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "Tarihçe",
+      "image": "history",
+
+      "details": "Kırıkkale, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. 1925 yılında ilçe olan Kırıkkale, 1989 yılında il statüsüne yükseltilmiştir."
+    },
+    {
+      "name": "Tarihi Yerler",
+      "image": "cesnigir",
+      "items": [
+        {
+          "name": "Çeşnigir Köprüsü",
+          "image": "kale",
+
+          "description": "Kırıkkale'deki Çeşnigir Köprüsü, Kızılırmak Nehri üzerindeki antik bir taş köprüdür, bölgenin tarihi ve kültürel mirasının önemli bir parçasıdır."
+        }
+      ]
+    },
+    {
+      "name": "Yöresel Yemekler",
+      "image": "bazlama",
+      "items": [
+        {
+          "name": "Bazlama",
+          "image": "bazlama",
+
+          "description": "Bazlama Kırıkkale'nin köy bölgelerinde her gün tüketilen meşhur bir yiyeceğidir"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "image": "baklava",
+      "items": [
+        {
+          "name": "Sarıburma",
+          "image": "baklava",
+
+          "description": "İçi cevizli ve şekerli hamurun ince şeritler halinde kesilip çırpılmış yumurta akı ile kaplanması ve sonra kızgın yağda kızartılmasıyla yapılan bir tatlıdır."
+        }
+      ]
+    }
+  ]
+}
+
