@@ -1,5 +1,12 @@
 
-{
+{ 
+  "sehrin_tarihcesi": [
+    {
+      "ad": "Kırıkkalw",
+      "aciklama": "Kırıkkale , şehrin 3 km. Kuzeyindeki Kırıkköyü ile kendin merkezindeki Kaletepe'nin kısaltılarak birleştirilmesinden ortaya çıktığı söylenir.",
+      "image": 
+    }
+  ],
   "tarihi_yerler": [
     {
       "ad": "Çeşnigir Köprüsü",
