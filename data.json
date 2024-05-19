@@ -1,5 +1,9 @@
 
-{ "sehrin_tarihcesi": "Kırıkkale, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. 1925 yılında ilçe olan Kırıkkale, 1989 yılında il statüsüne yükseltilmiştir.",
+{ "sehrin_tarihcesi":[
+ { "ad": "Kırıkkale"
+    "aciklama":"Kırıkkale, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. 1925 yılında ilçe olan Kırıkkale, 1989 yılında il statüsüne yükseltilmiştir."
+   
+   ,
   "tarihi_yerler": [
     {
       "ad": "Çeşnigir Köprüsü",
